@@ -1,0 +1,96 @@
+2023:
+  - title: "Macrophage inflammarafts in atherosclerosis"
+    author: Li S, Navia-Pelaez JM, Choi SH, Miller YI.
+    journal: Current Opinion in Lipidology 
+    volume: 34(5)
+    pages: 189-195
+    links:
+      DOI: "https://doi.org/10.1097/MOL.0000000000000888"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/37527160"
+
+  - title: "Gluten worsens non-alcoholic fatty liver disease by affecting lipogenesis and fatty acid oxidation in diet-induced obese apolipoprotein E-deficient mice"
+    author: Aguilar EC, Fernandes-Braga W, Santos EA, Leocádio PCL, Dos Santos Aggum Capettini L, Orellano LAA, Campos PP, Lemos VS, Soares FLP, Navia-Pelaez JM, Alvarez-Leite JI.
+    journal: Molecular and Cellular Biochemistry, 1-13
+    links:  
+      DOI: "https://doi.org/10.1007/s11010-023-04802-3"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/37402020"
+
+
+  - title: "AIBP regulates TRPV1 activation in chemotherapy-induced peripheral neuropathy by controlling lipid raft dynamics and proximity to TLR4 in dorsal root ganglion neurons"
+    author: Navia-Pelaez JM, Borges Paes Lemes J, Gonzalez L, Delay L, Dos Santos Aggum Capettini L, Lu JW, Gonçalves Dos Santos G, Gregus AM, Dougherty PM, Yaksh TL, Miller YI.
+    journal: Pain  
+    volume: 43(2)
+    pages: 323-329
+    links:
+      DOI: "https://doi.org/10.1097/j.pain.0000000000002834"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/PMC10182209"
+
+
+  - title: "Differential Expression of Inflammarafts in Macrophage Foam Cells and in Nonfoamy Macrophages in Atherosclerotic Lesions-Brief"
+    author: Navia-Pelaez JM, Agatisa-Boyle C, Choi SH, Sak Kim Y, Li S, Alekseeva E, Weldy K, Miller YI.
+    journal: Report. Arterioscler Thromb Vasc Biol
+    volume: 164 (6)
+    pages: e274-e285
+    links:
+      DOI: "https://doi.org/10.1161/ATVBAHA.122.318006"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/36453276"  
+
+
+  - title: "The atheroprotective role of fucoidan involves the reduction of foam cell formation by altering cholesterol flux-associated factors in macrophages."
+    author: Fernandes-Braga W, Aguilar EC, Navia-Pelaez JM, Ávila DL, Rezende L, Andrade LO, Miranda SEM, Barros ALB, Capettini LDSA, Alvarez-Leite JI.
+    journal: Biochem Biophys Res Commun.  
+    volume: 650
+    pages: 21-29
+    links:
+      DOI: "https://doi.org/10.1016/j.bbrc.2023.01.091"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/36764209"
+
+2022:
+  - title: "Dual effect of amitriptyline in the control of vascular tone: Direct blockade of calcium channel in smooth muscle cells and reduction of TLR4-dependent NO production in endothelial cells"
+    author: Navia-Pelaez JM, Dias MTS, Orellano LAA, Campos GP, Alvarez-Leite J, Campos PP, Capettini LSA.
+    journal: European Journal of Pharmacology 934, 175255
+    volume: 934
+    pages: 175255
+    links:
+      DOI: "https://doi.org/10.1016/j.ejphar.2022.175255"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/36088982"
+
+  - title: "Macrophages and glial cells: Innate immune drivers of inflammatory arthritic pain perception from peripheral joints to the central nervous system"
+    author: Malange KF, Navia-Pelaez JM, Dias EV, Lemes JBP, Choi SH, Dos Santos GG, Yaksh TL, Corr M.
+    journal: Frontiers in Pain Research
+    volume: 3
+    pages: 1018800
+    links:
+      DOI: "https://doi.org/10.3389/fpain.2022.1018800"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/36387416"
+
+  - title: "Reduced AIBP expression in bronchial epithelial cells of asthmatic patients: Potential therapeutic target"
+    author: Miller M, Pham AK, Gonen A, Navia-Pelaez JM, Xia K, Park S, Osterman AL, Bacon K, Beaton G, Kurten RC, Broide DH, Miller YI.
+    journal: Clinical and experimental allergy, journal of the British Society for
+    volume: 52(8)
+    pages: 979-984
+    links:
+      DOI: "https://doi.org/10.1111/cea.14150"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/35460293"
+
+
+2021:
+  - title: "Normalization of cholesterol metabolism in spinal microglia alleviates neuropathic pain"
+    author: Navia-Pelaez JM, Choi SH, Dos Santos Aggum Capettini L, Xia Y, Gonen A, Agatisa-Boyle C, Delay L, Gonçalves Dos Santos G, Catroli GF, Kim J, Lu JW, Saylor B, Winkels H, Durant CP, Ghosheh Y, Beaton G, Ley K, Kufareva I, Corr M, Yaksh TL, Miller YI
+    journal: Journal of Experimental Medicine 
+    volume: 218 (7)
+    links:
+      DOI: "https://doi.org/10.1084/jem.20202059"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/33970188"
+
+
+2020:
+  - title: "Lipid rafts in glial cells: role in neuroinflammation and pain processing: thematic review series: biology of lipid raft"
+    author: Miller YI, Navia-Pelaez JM, Corr M, Yaksh TL.
+    journal: Journal of lipid research
+    volume: 61
+    issue: 5
+    page: 655-666
+    links:
+      DOI: "https://doi.org/10.1194/jlr.TR119000468"
+      PubMed PMID: "https://pubmed.ncbi.nlm.nih.gov/31862695"
