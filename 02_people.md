@@ -19,7 +19,6 @@ permalink: people/index.html
 <img src="{{ site.baseurl }}/assets/images/people/{{ person.image }}.jpg"><br />
 {{ person.title }}<br />
 <figcaption>
-{{ person.office }}<br />
 {% if person.name == 'Juliana Navia Pelaez' %}
 <span style="font-size: 10pt;"> {{ person.email }}  </span><br />
 {% endif %}
