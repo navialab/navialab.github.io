@@ -6,7 +6,7 @@ permalink: jobs/index.html
 ---
 {% assign pub_serv = "http://www.navialab.info/jobs/" %}
 
-# We are recruiting!!!
+
 We are thrilled to build a diverse team of enthusiasts and curious scientists where everyone is welcome.
 Your contribution will help strengthen the Navia Lab. Come join the fun!
 
