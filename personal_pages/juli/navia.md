@@ -17,3 +17,7 @@ permalink: /personal_pages/juli/index.html
 **Phone \|** `(314) 977-6425` <br/>
 **Office \|** `M354, Schwitalla Hall` <br/>
 **Email \|** `juliana.navia@health.slu.edu` <br>
+
+[<img   style="display: block; margin: auto; "  alt="#MentorFirst Logo" 
+src="https://assets.pledge.mentorfirst.org/logo/mentoring_notext@2x.png"
+width="160"/>](https://mentorfirst.org){:target="_blank"}
