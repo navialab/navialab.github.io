@@ -20,4 +20,4 @@ permalink: /personal_pages/juli/index.html
 
 [<img   style="display: block; margin: auto; "  alt="#MentorFirst Logo" 
 src="https://assets.pledge.mentorfirst.org/logo/mentoring_notext@2x.png"
-width="160"/>](https://mentorfirst.org){:target="_blank"}
+width="250"/>](https://mentorfirst.org){:target="_blank"}
