@@ -10,7 +10,18 @@
   title: Postdoctoral fellow
   image: monara
   email: monara.angelim@health.slu.edu
-   
+
+- name: Anshita Sharma
+  title: PhD-graduate student
+  image: anshita
+  email: anshita.sharma@slu.edu
+  office:
+
+- name: Andy Rocca
+  title: Rotation Graduate Student 
+  email: andy.rocca@slu.edu
+  image: ni
+  
 - name: Leiana Abraham
   title: Undergraduate student
   image: leiana
@@ -21,10 +32,11 @@
   image: jessi
   email: jessi.abraham@slu.edu
   
-- name: Andy Rocca
-  title: Rotation Graduate Student 
-  email: andy.rocca@slu.edu
-  image: ni
+- name: Nick Tabscott
+  title: Summer intern
+  image: nick
+  email: nick.tabscot@health.slu.edu
+  office:
 
 - name: Wil Diaz
   title: Volunteer
